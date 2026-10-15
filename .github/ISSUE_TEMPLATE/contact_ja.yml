@@ -1,6 +1,6 @@
 name: お問い合わせ
 description: 不具合報告、改善提案、データ修正の連絡
-title: ""
+title: "問い合わせタイトル"
 labels: []
 assignees: []
 body:
